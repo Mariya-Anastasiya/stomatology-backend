@@ -12,8 +12,7 @@
     "np": "npm start"
   },
   "engines":{
-    "node":"14.15",
-    "npm":"14.15.4"
+    "node":"14.15.4"
   },
   "dependencies": {
     "@nestjs/common": "^8.0.0",
